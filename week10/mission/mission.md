@@ -65,3 +65,6 @@ Member member = MemberConverter.toMember(dto, salt, Role.ROLE_USER);
 ![Image](/week10/mission/mission_11.png)
 
 test API를 요청하면 성공하는 것을 볼 수 있다.
+
+[미션 레포지토리]
+(https://github.com/dosp74/demo/tree/feature/chapter10)
